@@ -1,0 +1,29 @@
+{
+  "lastChangelogVersion": "0.85.1",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.6-sol",
+  "defaultThinkingLevel": "medium",
+  "enabledModels": [
+    "opencode/deepseek-v4-flash-free",
+    "openai-codex/gpt-5.5",
+    "zai/glm-5.2",
+    "openai-codex/gpt-5.6-luna",
+    "openai-codex/gpt-5.6-terra",
+    "opencode/glm-5.1",
+    "openai-codex/gpt-5.6-sol",
+    "zai/glm-5.3"
+  ],
+  "theme": "dark",
+  "hideThinkingBlock": false,
+  "packages": [
+    "npm:pi-mono-ask-user-question",
+    "npm:pi-web-access",
+    "npm:pi-diff-review"
+  ],
+  "retry": {
+    "enabled": false
+  },
+  "compaction": {
+    "enabled": true
+  }
+}

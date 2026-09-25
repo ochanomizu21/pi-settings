@@ -1,0 +1,11 @@
+# Secrets — never commit
+auth.json
+
+# Machine-local / large state
+sessions/
+bin/
+models-store.json
+trust.json
+
+# OS cruft
+.DS_Store
