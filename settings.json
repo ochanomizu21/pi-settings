@@ -14,7 +14,7 @@
     "zai/glm-5.3"
   ],
   "theme": "dark",
-  "hideThinkingBlock": false,
+  "hideThinkingBlock": true,
   "packages": [
     "npm:pi-mono-ask-user-question",
     "npm:pi-web-access",
